@@ -27,6 +27,15 @@ const useStyles = makeStyles((theme: Theme) =>
       height: 18,
       borderRadius: 50,
     },
+    redColumn: {
+      backgroundColor: "#ffdada",
+    },
+    greenColumn: {
+      backgroundColor: "#d8ffc4",
+    },
+    rowCurrency: {
+      cursor: "pointer",
+    },
   })
 );
 
